@@ -239,7 +239,7 @@ header{
 }
 #slogen_p{
      /* 文字 */
-      font-size: 25px; 
+      font-size: 20px; 
       color: blueviolet;  
       /* 動畫 */
         animation-name: slogen_pa;
